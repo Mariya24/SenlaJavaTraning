@@ -43,25 +43,5 @@ import java.util.Set;
 		public void  deleteReceiptOfPat(ReceiptOfPat r){
 			receipt.remove(r);
 		}
-	/*	
-		public void setDepartment(Department d){
-			department = d;
-		}
-		
-		public Department getDepartment(){
-			return department;
-		}
-		
-		public void setPastPosition(PastPosition p){
-			pastPosition.add(p);
-		}
-		
-		public Set<PastPosition>  getPastPosition(){
-			return pastPosition;
-		}
-		
-		public void deletePastPosition(PastPosition p){
-			pastPosition.remove(p);
-		}
-	*/
+
 	}
